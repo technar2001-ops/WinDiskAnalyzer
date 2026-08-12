@@ -28,6 +28,7 @@
 ## ☕ Поддержать проект / Support the project
 
 WinDiskAnalyzer - бесплатная программа, но вы можете поддержать меня:
+
 WinDiskAnalyzer is free, but if it helps you — you can support development:
 
 💛 **[Boosty](https://boosty.to/technar)** — one-time donation
@@ -41,4 +42,4 @@ WinDiskAnalyzer is free, but if it helps you — you can support development:
 
 Я буду признателен любым предложениям по улучшению и конструктивной критике в **[Discussions](../../discussions)**. Пока данный проект разрабатывается, еще есть идеи для реализации. В самом приложении есть история добавления функционала.
 
-Делаю больше для себя, но решил поделиться, вдруг кому будет полезна
+Делаю больше для себя, но решил поделиться, вдруг кому будет полезна. Так же заранее спасибо, если вы решите поддержать проект.
