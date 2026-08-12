@@ -25,6 +25,16 @@
 
 *Возможно Windows попросит поставить .NET10*
 
+## ☕ Поддержать проект / Support the project
+
+WinDiskAnalyzer - бесплатная программа, но вы можете поддержать меня:
+WinDiskAnalyzer is free, but if it helps you — you can support development:
+
+💛 **[Boosty](https://boosty.to/technar)** — one-time donation
+
+(works with Russian and international cards · работает с картами РФ и других стран)
+
+
 ## Лирическое отступление
 
 Не кидайтесь тапками, мне было интересно сделать удобную программу, которая заменит старые программы, которые мне нужны как сисадмину (на пол-ставки).
